@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 27 May 2023 16:09:33 at https://www.bokaboka.es/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://www.bokaboka.es/ -O1 "C:\My Web Sites\bokoboko" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:09:34	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.bokaboka.es/robots.txt (from primary/primary)
+16:09:45	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.bokaboka.es/doctor (from https://www.bokaboka.es/)
+16:09:49	Warning: 	Found for https://www.instagram.com/bokaboka_vegan/
+16:09:49	Warning: 	File has moved from https://www.instagram.com/bokaboka_vegan/ to https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fbokaboka_vegan%2F
+16:09:50	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.bokaboka.es/privacidad-y-terminos (from https://www.bokaboka.es/)
+16:09:50	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.bokaboka.es/doctor (from https://www.bokaboka.es/)
+16:09:51	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.bokaboka.es/privacidad-y-terminos (from https://www.bokaboka.es/)
+16:09:51	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.bokaboka.es/doctor (from https://www.bokaboka.es/)
+16:09:51	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.bokaboka.es/privacidad-y-terminos (from https://www.bokaboka.es/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 31 links scanned, 21 files written (2384574 bytes overall) [1498188 bytes received at 83232 bytes/sec], 1136509 bytes transferred using HTTP compression in 9 files, ratio 20%, 2.5 requests per connection
+(3 errors, 6 warnings, 0 messages)
